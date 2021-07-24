@@ -1,0 +1,23 @@
+@media screen and (min-width: 1024px) {
+  .hero {
+    h3 {
+      font-size: 2rem;
+      font-weight: 400;
+    }
+    h1 {
+      font-size: 4rem;
+      line-height: 3.6rem;
+    }
+    .cta-hero {
+      font-size: 2rem;
+    }
+  }
+
+  .services,
+  .pricing,
+  .portfolio {
+    padding: 3rem 3rem;
+  }
+
+  // END MEDIA QUERY
+}
